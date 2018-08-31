@@ -1,0 +1,9 @@
+﻿<q1:Root xmlns:q1="http://www.gaoenergy.com/pec/2017/12/meters/MicroGridEnergyManagement">
+  <q1:Node UnitId="856cb3c7-2a83-4baa-a828-bfa7d9c648c5" />
+  <q1:Node UnitId="b2f18f98-8e90-4339-a4bb-62185057978f" />
+  <q1:Node UnitId="00aa80dd-d336-4aeb-9e28-43505ba062db" />
+  <q1:Node UnitId="a315dd40-e0c4-48d0-9bf3-79af0c8b93d7" />
+  <q1:Node UnitId="75548645-657a-484b-aa82-f257dcbb574e" />
+  <q1:Node UnitId="34082c72-ba1c-4256-906e-46bb0f33a102" />
+  <q1:Node UnitId="b6bd761b-4c36-4ac8-bf4c-5faa86cf7157" />
+</q1:Root>
